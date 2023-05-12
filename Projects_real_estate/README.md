@@ -27,5 +27,6 @@
 <code>```
 import pandas as pd
 import numpy as np
-import matplotlib</code>```
+import matplotlib```
+</code>
 

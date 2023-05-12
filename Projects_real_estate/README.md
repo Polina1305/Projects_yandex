@@ -24,7 +24,8 @@
 Были проведены исследования по всем поставленным задачам и сделаны выводы по каждому. С результатами вы можете ознакомиться в файле.
 
 # Установка библиотек:
-```import pandas as pd
+<code>```
+import pandas as pd
 import numpy as np
-import matplotlib```
+import matplotlib</code>```
 
